@@ -1,4 +1,4 @@
-# awesome-shirts
+# Awesome Shirts
 👕 A curation of awesome shirts from around the Internet
 
 
